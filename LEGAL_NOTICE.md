@@ -3,13 +3,12 @@
 **Project:** L.i.a.p. (Local Intelligence Architecture Proactive)
 **Status:** Proprietary Development / Stealth Mode
 
-### ⚠️ Usage & Restrictions
-1. **All Rights Reserved:** This repository is for informational and promotional purposes only. No part of the L.i.a.p. architecture, logic flows, or naming conventions may be reproduced, redistributed, or imitated.
-2. **No License Granted:** No license (MIT, GPL, etc.) is provided. Use, modification, or reverse engineering of the concepts described herein is strictly prohibited.
-3. **Proprietary Logic:** The specific "19-layer MemoryFacade" and the "Zero-Token Resonance" algorithms are protected trade secrets. 
-4. **No Source Code:** To protect the integrity and IP of the project, no executable source code is provided in this public showcase.
+### ⚠️ Strict Restrictions
+1. **Ownership:** The 19-layer architecture, the "Teacher-Student" logic, and the "Hallucination Interceptor" are the exclusive intellectual property of the lead architect.
+2. **No License:** No open-source license (MIT, GPL, etc.) is granted. Reproduction, imitation, or commercial use of these concepts is strictly prohibited.
+3. **Trade Secret:** The methods for achieving "Zero-Token Resonance" and the "Sentinel 0.98" logic are protected trade secrets.
+4. **No Source Code:** This is a conceptual showcase. No executable code is provided to protect the project's integrity.
 
-### 🛡️ Imitation Notice
-Any attempt to rebuild the described logic or architecture based on this public documentation for commercial purposes will be considered a violation of intellectual property rights.
+*Inquiries for private demonstrations can be directed via GitHub Private Message.*
 
 *For inquiries regarding private demos or technological partnerships, please contact the Lead Architect via GitHub Private Message.*
