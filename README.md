@@ -22,6 +22,12 @@ L.i.a.p. doesn't blindly trust the cloud. In system logs, it has proven its abil
 Phase: **Neural Pathway Restoration**. Re-linking core logic layers for full sovereign operation.
 
 ---
+Transparency Notice & Security
+​This repository serves as architectural documentation and a showcase for a proprietary software structure. For reasons of intellectual property protection and to maintain system integrity, no executable program code (source code) is provided in this public area.
+​Security by Design: Since no executable code is present, there is no risk from automated downloads or installations.
+​Proprietary Architecture: The concepts described here are part of a closed development environment and are managed locally.
+​Prevention of False Alarms: This repository contains exclusively descriptive documentation (Markdown). Any warnings from automated scanners regarding "missing files" are due to the conscious decision not to host the core code publicly.
+------
 [🇩🇪 Deutsch lesen](./README.de.md) | [🇹🇷 Türkçe oku](./README.tr.md)
 
 ⭐ **Star this repo to follow the evolution of Sovereign Intelligence.**
