@@ -18,3 +18,13 @@ Transparenz-Hinweis & Sicherheit
 ​Sicherheit durch Design: Da kein ausführbarer Code vorhanden ist, besteht keine Gefahr durch automatisierte Downloads oder Installationen.
 ​Proprietäre Architektur: Die hier beschriebenen Konzepte sind Teil einer geschlossenen Entwicklungsumgebung und werden lokal verwaltet.
 ​Vermeidung von Fehlalarmen: Dieses Repository enthält ausschließlich beschreibende Dokumentationen (Markdown). Jegliche Warnungen automatisierter Scanner bezüglich „fehlender Dateien“ sind auf die bewusste Entscheidung zurückzuführen, den Kern-Code nicht öffentlich zu hosten.
+
+---
+Identität & Namensklärung
+L.i.a.p. steht für Local Intelligence Architecture Proactive.
+
+Unabhängigkeit: Dieses Projekt ist eine vollkommen eigenständige, proprietäre neuronale Architektur.
+
+Keine Zugehörigkeit: Es besteht keinerlei Verbindung, Kooperation oder Verwandtschaft mit Drittanbieter-Projekten, Open-Source-Initiativen oder ähnlich klingenden Namen (wie dem „LEAP-Project“).
+
+Eindeutigkeit: Die Bezeichnung ist ein spezifisches technisches Akronym für unser lokales, proaktives 19-Schichten-Intelligenzmodell.
