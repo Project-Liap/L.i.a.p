@@ -12,3 +12,9 @@ L.i.a.p. harici LLM'leri sadece "öğretmen" olarak kullanır.
 L.i.a.p. harici yapay zekalardan gelen hataları tespit eder ve yerel sistem verileriyle otonom olarak düzeltir. Buluta değil, kendi "Yerel Gerçekliğine" güvenir.
 
 **Durum:** %65 tamamlandı | Ubuntu 24.04 Native.
+---
+Şeffaflık Bildirimi ve Güvenlik
+​Bu depo, tescilli bir yazılım yapısı için mimari dokümantasyon ve vitrin (showcase) görevi görmektedir. Fikri mülkiyetin korunması ve sistem bütünlüğünün sağlanması amacıyla, bu kamuya açık alanda yürütülebilir program kodu (kaynak kod) sağlanmamaktadır.
+​Tasarım Yoluyla Güvenlik: Yürütülebilir kod bulunmadığından, otomatik indirmeler veya kurulumlardan kaynaklanan bir risk yoktur.
+​Tescilli Mimari: Burada açıklanan kavramlar kapalı bir geliştirme ortamının parçasıdır ve yerel olarak yönetilmektedir.
+​Yanlış Alarmların Önlenmesi: Bu depo yalnızca açıklayıcı dokümantasyon (Markdown) içerir. Otomatik tarayıcıların "eksik dosyalar" ile ilgili uyarıları, çekirdek kodun kamuya açık olarak barındırılmaması yönündeki bilinçli karardan kaynaklanmaktadır.
